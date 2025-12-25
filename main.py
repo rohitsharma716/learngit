@@ -8,3 +8,6 @@ git checkout feature
 
 
 change in main 
+
+
+connect database main 
