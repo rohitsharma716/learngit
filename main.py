@@ -7,7 +7,8 @@ git branch feature
 git checkout feature
 
 
-change in main 
+<
+=======
 
-
-connect database main 
+database connection in feature3 
+>>>>>>> feature
